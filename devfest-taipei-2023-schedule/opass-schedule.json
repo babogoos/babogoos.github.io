@@ -118,7 +118,7 @@
             }
         }
     ],
-    "sessionTypes": [
+    "session_types": [
         {
             "en": {
                 "name": "Session"
