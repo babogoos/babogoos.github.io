@@ -192,6 +192,15 @@
             ],
             "start": "2023-01-01T09:00:00+08:00",
             "tags": [],
+            "type": {
+                "en": {
+                    "name": "Session"
+                },
+                "id": "213235",
+                "zh": {
+                    "name": "一般議程"
+                }
+            },
             "zh": {
                 "description": "",
                 "title": "Opening"
@@ -252,7 +261,26 @@
                 }
             ],
             "start": "2023-01-01T09:15:00+08:00",
-            "tags": [],
+            "tags": [
+                {
+                    "en": {
+                        "name": "AI/ML"
+                    },
+                    "id": "213250",
+                    "zh": {
+                        "name": "AI/ML"
+                    }
+                }
+            ],
+            "type": {
+                "en": {
+                    "name": "Session"
+                },
+                "id": "213235",
+                "zh": {
+                    "name": "一般議程"
+                }
+            },
             "zh": {
                 "description": "",
                 "title": "Keynote - 展望 Generative AI 的現在與未來"
