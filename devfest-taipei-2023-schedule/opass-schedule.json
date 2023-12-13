@@ -1777,7 +1777,7 @@
             }
         },
         {
-            "avatar": "",
+            "avatar": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_face,h_200,q_auto:good,w_200/v1/gcs/platform-data-goog/events/Frame%25203_10s6YTx.png",
             "en": {
                 "bio": "I am an AI Engineer working in Reseach and Developement team at ViewSonic Corporation.",
                 "name": "Anjana Kumar"
@@ -1849,7 +1849,7 @@
             }
         },
         {
-            "avatar": "",
+            "avatar": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_face,h_200,q_auto:good,w_200/v1/gcs/platform-data-goog/events/Frame%25204_23Nlm7s.png",
             "en": {
                 "bio": "Machine Learning Engineer, living in Taiwan for 6 years now and counting. I once co-founded a startup that developed software for the visually impaired in Germany before moving to Taiwan after meeting my wife here. Most of my experience is in C++ software development and embedded computer vision applications. Since June this year, my team and me focus on NLP and LLM applications.",
                 "name": "Daniel Eberts"
@@ -1899,12 +1899,12 @@
         {
             "avatar": "https://sessionize.com/image/fdd2-400o400o1-TYLQ6whAnJVJ5bwCYoNLzW.jpg",
             "en": {
-                "bio": "",
+                "bio": "Developer Relations Program Manager at Google",
                 "name": "Eric ShangKuan"
             },
             "id": "8ca9b6e8-652c-4e55-87cf-3482ab108ad5",
             "zh": {
-                "bio": "",
+                "bio": "Developer Relations Program Manager at Google",
                 "name": "Eric ShangKuan"
             }
         },
@@ -1969,14 +1969,14 @@
             }
         },
         {
-            "avatar": "",
+            "avatar": "https://cdn4.iconfinder.com/data/icons/tabler-vol-2/24/brand-kotlin-512.png",
             "en": {
-                "bio": "",
+                "bio": "一卡通票證有限公司 Sr. Software Engineer",
                 "name": "Harry Hsu"
             },
             "id": "afc5a134-d929-4571-81bd-8de4ceebf990",
             "zh": {
-                "bio": "",
+                "bio": "一卡通票證有限公司 Sr. Software Engineer",
                 "name": "Harry Hsu"
             }
         },
@@ -2197,14 +2197,14 @@
             }
         },
         {
-            "avatar": "",
+            "avatar": "https://www.jetbrains.com.cn/lp/kotlin-online-conference/img/144847-0.92991287.png",
             "en": {
-                "bio": "",
+                "bio": "Pamela 是 JetBrains 的 Kotlin Multiplatform 技术布道师，拥有 20 多年编写桌面、Web 和移动应用程序的经验。",
                 "name": "Pamela Hill"
             },
             "id": "ec5100a9-f716-49ba-868a-d21a2fd6314b",
             "zh": {
-                "bio": "",
+                "bio": "Pamela 是 JetBrains 的 Kotlin Multiplatform 技术布道师，拥有 20 多年编写桌面、Web 和移动应用程序的经验。",
                 "name": "Pamela Hill"
             }
         },
@@ -2221,7 +2221,7 @@
             }
         },
         {
-            "avatar": "",
+            "avatar": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_face,h_200,q_auto:good,w_200/v1/gcs/platform-data-goog/events/Frame%25202_oAyFTNZ.png",
             "en": {
                 "bio": "I have been working as an AI Software developer in ViewSonic for 18 months now. Moved to Taipei in January 2018, and graduated with Masters degrere in Electrical Engineering and Computer Science from National Taipei University of Technology.",
                 "name": "Praveen Chittem"
@@ -2535,24 +2535,24 @@
         {
             "avatar": "https://sessionize.com/image/2f59-400o400o1-JbAm3iENu4DvCTv4zazhXX.png",
             "en": {
-                "bio": "",
+                "bio": "一卡通票證有限公司 Sr. Software Engineer",
                 "name": "宇軒 林"
             },
             "id": "ea2db839-45db-4185-a621-22046e9b8810",
             "zh": {
-                "bio": "",
+                "bio": "一卡通票證有限公司 Sr. Software Engineer",
                 "name": "宇軒 林"
             }
         },
         {
-            "avatar": "",
+            "avatar": "https://www.jetbrains.com.cn/lp/kotlin-online-conference/img/150158-0.31945604.png",
             "en": {
-                "bio": "",
+                "bio": "NG 于 Meta (Facebook 母公司) 英国伦敦办公室任职软件工程师，加入团队后从移动端开发者转为负责 Kotlin Compiler Infrastructure 相关的工作。",
                 "name": "惠勤 黃"
             },
             "id": "33e721b4-9e42-401b-b4a7-b2eecf2c3d1d",
             "zh": {
-                "bio": "",
+                "bio": "NG 于 Meta (Facebook 母公司) 英国伦敦办公室任职软件工程师，加入团队后从移动端开发者转为负责 Kotlin Compiler Infrastructure 相关的工作。",
                 "name": "惠勤 黃"
             }
         },
@@ -2617,14 +2617,14 @@
             }
         },
         {
-            "avatar": "",
+            "avatar": "https://www.jetbrains.com.cn/lp/kotlin-online-conference/img/032532-0.012954235.png",
             "en": {
-                "bio": "",
+                "bio": "JetBrains 技术布道师，负责推广 JetBrains 相关技术与产品，包括 Kotlin 编程语言及 JetBrains IDE，协助开发者善用工具来提升生产力及代码质量。工作之馀积极参与 Kotlin 社区运营，曾创办 Kotlin 读书会/练功场、Kotlin 中文开发者大会及 Kotlin 炉边漫谈 Podcast。",
                 "name": "聖佑 范"
             },
             "id": "25bb137e-b9bb-48d2-aa01-53b53067be48",
             "zh": {
-                "bio": "",
+                "bio": "JetBrains 技术布道师，负责推广 JetBrains 相关技术与产品，包括 Kotlin 编程语言及 JetBrains IDE，协助开发者善用工具来提升生产力及代码质量。工作之馀积极参与 Kotlin 社区运营，曾创办 Kotlin 读书会/练功场、Kotlin 中文开发者大会及 Kotlin 炉边漫谈 Podcast。",
                 "name": "聖佑 范"
             }
         },
@@ -2641,14 +2641,14 @@
             }
         },
         {
-            "avatar": "",
+            "avatar": "https://www.jetbrains.com.cn/lp/kotlin-online-conference/img/150150-0.23469311.png",
             "en": {
-                "bio": "",
+                "bio": "念完分子生物学博士班后，跑去从头开始学如何写代码的黑手型 Coder。现为团队里负责全栈 Kotlin 化的重要推手。",
                 "name": "芃翰 蘇"
             },
             "id": "7b9c6f43-d794-4125-ab19-dc42ccf33e66",
             "zh": {
-                "bio": "",
+                "bio": "念完分子生物学博士班后，跑去从头开始学如何写代码的黑手型 Coder。现为团队里负责全栈 Kotlin 化的重要推手。",
                 "name": "芃翰 蘇"
             }
         },
@@ -2689,14 +2689,14 @@
             }
         },
         {
-            "avatar": "",
+            "avatar": "https://www.jetbrains.com.cn/lp/kotlin-online-conference/img/144855-0.2683205.png",
             "en": {
-                "bio": "",
+                "bio": "来自美团 SaaS 餐饮基建团队，旨在通过跨平台、容器化、低代码等技术为餐饮业务终端开发赋能与提效。曾任 GMTC2023 讲师，在 Kotlin 跨平台领域有很丰富的实践经验。美团餐饮系统，是为餐饮企业提供一站式 IT 解决方案，帮餐饮商户实现从供应链管理、生产管理、前厅管理到外卖的数字化经营。",
                 "name": "銀龍 劉"
             },
             "id": "3eee1f76-2be1-4b31-93fe-dbdfe269a335",
             "zh": {
-                "bio": "",
+                "bio": "来自美团 SaaS 餐饮基建团队，旨在通过跨平台、容器化、低代码等技术为餐饮业务终端开发赋能与提效。曾任 GMTC2023 讲师，在 Kotlin 跨平台领域有很丰富的实践经验。美团餐饮系统，是为餐饮企业提供一站式 IT 解决方案，帮餐饮商户实现从供应链管理、生产管理、前厅管理到外卖的数字化经营。",
                 "name": "銀龍 劉"
             }
         },
