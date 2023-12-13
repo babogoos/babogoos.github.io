@@ -150,7 +150,7 @@
     "sessions": [
         {
             "en": {
-                "description": "",
+                "description": "Opening",
                 "title": "Opening"
             },
             "end": "2023-01-01T09:15:00+08:00",
@@ -164,13 +164,13 @@
             "tags": [],
             "type": "213235",
             "zh": {
-                "description": "",
+                "description": "Opening",
                 "title": "Opening"
             }
         },
         {
             "en": {
-                "description": "",
+                "description": "展望 Generative AI 的現在與未來",
                 "title": "Keynote - 展望 Generative AI 的現在與未來"
             },
             "end": "2023-01-01T10:40:00+08:00",
@@ -187,7 +187,7 @@
             ],
             "type": "213235",
             "zh": {
-                "description": "",
+                "description": "展望 Generative AI 的現在與未來",
                 "title": "Keynote - 展望 Generative AI 的現在與未來"
             }
         },
@@ -327,7 +327,7 @@
         },
         {
             "en": {
-                "description": "",
+                "description": "Google Mediapipe 結合邊緣運算裝置",
                 "title": "Google Mediapipe 結合邊緣運算裝置"
             },
             "end": "2023-01-01T11:30:00+08:00",
@@ -343,7 +343,7 @@
             ],
             "type": "213235",
             "zh": {
-                "description": "",
+                "description": "Google Mediapipe 結合邊緣運算裝置",
                 "title": "Google Mediapipe 結合邊緣運算裝置"
             }
         },
@@ -784,7 +784,7 @@
         },
         {
             "en": {
-                "description": "",
+                "description": "防量子攻擊的開發套件",
                 "title": "防量子攻擊的開發套件"
             },
             "end": "2023-01-01T13:40:00+08:00",
@@ -800,7 +800,7 @@
             ],
             "type": "213235",
             "zh": {
-                "description": "",
+                "description": "防量子攻擊的開發套件",
                 "title": "防量子攻擊的開發套件"
             }
         },
@@ -1511,7 +1511,7 @@
         },
         {
             "en": {
-                "description": "",
+                "description": "使用 BQML + PaLM 分析半結構化應用程式 access log",
                 "title": "使用 BQML + PaLM 分析半結構化應用程式 access log"
             },
             "end": "2023-01-01T11:50:00+08:00",
@@ -1526,13 +1526,13 @@
             ],
             "type": "213236",
             "zh": {
-                "description": "",
+                "description": "使用 BQML + PaLM 分析半結構化應用程式 access log",
                 "title": "使用 BQML + PaLM 分析半結構化應用程式 access log"
             }
         },
         {
             "en": {
-                "description": "",
+                "description": "使用 PaLM 生成 SQL 語句",
                 "title": "使用 PaLM 生成 SQL 語句"
             },
             "end": "2023-01-01T14:00:00+08:00",
@@ -1547,7 +1547,7 @@
             ],
             "type": "213236",
             "zh": {
-                "description": "",
+                "description": "使用 PaLM 生成 SQL 語句",
                 "title": "使用 PaLM 生成 SQL 語句"
             }
         },
@@ -2738,15 +2738,6 @@
         }
     ],
     "tags": [
-        {
-            "en": {
-                "name": ""
-            },
-            "id": "null",
-            "zh": {
-                "name": ""
-            }
-        },
         {
             "en": {
                 "name": "AI/ML"
