@@ -1687,7 +1687,7 @@
         },
         {
             "en": {
-                "description": "開場將由JetBrains 技術傳教士範聖佑與Kotlin 團隊專門負責KMP 方向的傳教士Pamela Hill 搭配，由聖佑先為大家回顧2023 年Kotlin 生態的重點更新，再由Pamela 帶來Kotlin Multiplatform 的第一手消息，想知道最新的Kotlin 尖端技術就聽這場！",
+                "description": "開場將由JetBrains 技術傳教士范聖佑與Kotlin 團隊專門負責KMP 方向的傳教士Pamela Hill 搭配，由聖佑先為大家回顧2023 年Kotlin 生態的重點更新，再由Pamela 帶來Kotlin Multiplatform 的第一手消息，想知道最新的Kotlin 尖端技術就聽這場！",
                 "title": "回顧2023 及Kotlin Multiplatform 最新消息 [Kotlin 中文開發者大會聯播]"
             },
             "end": "2023-12-16T14:30:00+08:00",
@@ -1701,7 +1701,7 @@
             "tags": [],
             "type": "213235",
             "zh": {
-                "description": "開場將由JetBrains 技術傳教士範聖佑與Kotlin 團隊專門負責KMP 方向的傳教士Pamela Hill 搭配，由聖佑先為大家回顧2023 年Kotlin 生態的重點更新，再由Pamela 帶來Kotlin Multiplatform 的第一手消息，想知道最新的Kotlin 尖端技術就聽這場！",
+                "description": "開場將由JetBrains 技術傳教士范聖佑與Kotlin 團隊專門負責KMP 方向的傳教士Pamela Hill 搭配，由聖佑先為大家回顧2023 年Kotlin 生態的重點更新，再由Pamela 帶來Kotlin Multiplatform 的第一手消息，想知道最新的Kotlin 尖端技術就聽這場！",
                 "title": "回顧2023 及Kotlin Multiplatform 最新消息 [Kotlin 中文開發者大會聯播]"
             }
         },
@@ -2620,12 +2620,12 @@
             "avatar": "https://www.jetbrains.com.cn/lp/kotlin-online-conference/img/032532-0.012954235.png",
             "en": {
                 "bio": "JetBrains 技術佈道師，負責推廣 JetBrains 相關技術與產品，包括 Kotlin 編程語言及 JetBrains IDE，協助開發者善用工具來提升生產力及代碼質量。工作之餘積極參與 Kotlin 社區運營，曾創辦 Kotlin 讀書會/練功場、Kotlin 中文開發者大會及 Kotlin 爐邊漫談 Podcast。",
-                "name": "聖佑 範"
+                "name": "聖佑 范"
             },
             "id": "25bb137e-b9bb-48d2-aa01-53b53067be48",
             "zh": {
                 "bio": "JetBrains 技術佈道師，負責推廣 JetBrains 相關技術與產品，包括 Kotlin 編程語言及 JetBrains IDE，協助開發者善用工具來提升生產力及代碼質量。工作之餘積極參與 Kotlin 社區運營，曾創辦 Kotlin 讀書會/練功場、Kotlin 中文開發者大會及 Kotlin 爐邊漫談 Podcast。",
-                "name": "聖佑 範"
+                "name": "聖佑 范"
             }
         },
         {
@@ -2656,12 +2656,12 @@
             "avatar": "https://sessionize.com/image/32e2-400o400o1-9AF2dZgK9SLcrpr99q7V6N.jpg",
             "en": {
                 "bio": "Lead \u002722 @Google DSC NCCU | Founder \u0026 Product Manager @Open NCCU",
-                "name": "範愷祐 Kyo Fan"
+                "name": "范愷祐 Kyo Fan"
             },
             "id": "3fb70cac-e431-462b-9498-8a6150d92cad",
             "zh": {
                 "bio": "Lead \u002722 @Google DSC NCCU | Founder \u0026 Product Manager @Open NCCU",
-                "name": "範愷祐 Kyo Fan"
+                "name": "范愷祐 Kyo Fan"
             }
         },
         {
